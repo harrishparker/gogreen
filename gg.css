@@ -1,0 +1,107 @@
+body{
+    background-image: url(SAP\ Tree\ Planting.jpg);
+    background-repeat: no-repeat;
+    background-size:  1650px;
+    padding-bottom: 1000px;
+    
+}
+.header{
+    font-family: 'Satisfy', cursive;
+    font-size: 7em;
+    color: rgb(69, 118, 69);
+    padding: 250px;
+    font-style: italic;
+    font-weight: bold;
+   
+}
+p{
+    font-size: small;
+    color: whitesmoke;
+}
+input{
+    padding-left: 200px;
+    
+}
+.title1{
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    color: darkgreen;
+}
+.container1{
+    position: relative;
+    min-height: 40vh;
+    background: white;
+    background-color:white;
+  }
+  .container1 .images1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+  }
+  .container1 .images1 .gallery{
+    border: 2px solid white;
+    cursor: pointer;
+  }
+  .container .images .gallery>img{
+    height: 100%;
+    width: 100%;
+  }
+  .text1{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .text2{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .title2{
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    color: darkgreen;
+}
+.container2{
+    position: relative;
+    min-height: 40vh;
+    background: white;
+    background-color:white;
+  }
+.container2 .images2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+  }
+  .container2 .images2 .gallery{
+    border: 2px solid white;
+    cursor: pointer;
+  }
+  .container .images .gallery>img{
+    height: 100%;
+    width: 100%;
+  }
+  .text3{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .text4{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .text5{
+    color: darkgreen;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .copyrights{
+    text-align: center;
+    padding-top:300px ;
+  }
